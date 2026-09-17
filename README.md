@@ -1,141 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDDFFF&height=180&section=header&text=Giovanna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9DD9FF&height=220&section=header&text=Giovanna%20Sampaio&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica+%F0%9F%92%BB;Desenvolvimento+Web+%F0%9F%8C%90;Aprendendo+Java+%E2%98%95;Construindo+meu+pr%C3%B3prio+caminho+na+tecnologia+%F0%9F%A9%B5%F0%9F%8F%BB" alt="Typing SVG" />
-
-<br>
-
-🌊 🩵 💻 ✨
-
-</div>
-
----
-
-<div align="center">
-
-## 👩🏻‍💻 Sobre Mim
-
-</div>
-
-🎓 Estudante do **Curso Técnico Integrado em Informática no IFCE — Campus Maranguape**.
-
-💻 Atualmente aprofundando meus conhecimentos em **Java, Programação Orientada a Objetos e Desenvolvimento Web**.
-
-🌱 Também explorando **Python, Banco de Dados, Linux e outras áreas da tecnologia**.
-
-🎨 Tenho interesse em unir **tecnologia, criatividade e desenvolvimento de projetos**.
-
----
-
-<div align="center">
-
-🌊 ─────────────────────────────────────── 🌊
-
-## 🛠️ Tecnologias & Ferramentas
-
-🌊 ─────────────────────────────────────── 🌊
-
-### 💻 Linguagens & Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
-
-### 🔧 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📚 Atualmente Estudando
-
-☕ **Java & Programação Orientada a Objetos**
-
-🌐 **HTML, CSS & JavaScript**
-
-🐍 **Python**
-
-🗄️ **Banco de Dados**
-
-🐧 **Linux & Administração de Servidores**
-
-🔌 **Sistemas Embarcados**
-
-</div>
-
----
-
-<div align="center">
-
-🩵 ─────────────────────────────────────── 🩵
-
-## 🚀 Projetos
-
-🩵 ─────────────────────────────────────── 🩵
-
-</div>
-
-📌 Aqui estarão alguns dos meus projetos, atividades e experimentos desenvolvidos durante minha jornada na área de tecnologia.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4A90C2&center=true&vCenter=true&width=700&lines=Estudante+de+Inform%C3%A1tica+%7C+IFCE;Desenvolvedora+em+forma%C3%A7%C3%A3o;Explorando+Java%2C+Python+e+Tecnologias+Web;Transformando+ideias+em+projetos" />
 
 <br>
 
-<div align="center">
-
-💻 **Projetos de Desenvolvimento Web**
-
-☕ **Projetos em Java**
-
-🐍 **Projetos em Python**
-
-🎨 **Projetos criativos e acadêmicos**
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=5B9BD5&icon_color=5B9BD5&text_color=5B6573" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&title_color=5B9BD5&text_color=5B6573" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&hide_border=true&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5" />
-
-</div>
-
----
-
-<div align="center">
-
-🌊 ─────────────────────────────────────── 🌊
-
-## 📬 Vamos conversar?
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-BDDFFF?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-</a>
-
-<a href="https://github.com/SEU_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-BDDFFF?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
-🌊 ─────────────────────────────────────── 🌊
-
-<br>
-
-### 🩵 Obrigada por visitar meu perfil!
-
-<sub>💻 Desenvolvendo, aprendendo e evoluindo um código de cada vez.</sub>
+🌊 &nbsp; `010101` &nbsp; 💻 &nbsp; `</>` &nbsp; 🌊
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDDFFF&height=100&section=footer"/>
+<img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo.gif" width="0">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🩵 01 · SOBRE MIM
+
+</div>
+
+> 👩🏻‍💻 Estudante de **Informática** e apaixonada pelo universo da tecnologia e do desenvolvimento de software.
+
+Atualmente, estou construindo minha base em programação, explorando diferentes áreas e transformando o conhecimento adquirido em projetos práticos.
+
+☕ **Java & Programação Orientada a Objetos**  
+🐍 **Python**  
+🌐 **Desenvolvimento Front-end**  
+🗄️ **Banco de Dados**  
+🔧 **Git & GitHub**
+
+Meu objetivo é evoluir constantemente, aprender novas tecnologias e transformar cada projeto em uma oportunidade de aprender algo novo.
+
+---
+
+<div align="center">
+
+🌊━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌊
+
+## 💻 02 · TECNOLOGIAS
+
+🌊━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌊
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
+
+<br><br>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,mysql" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 03 · O QUE ESTOU ESTUDANDO
 
 </div>
