@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=2600&pause=800&color=4FA8D8&center=true&vCenter=true&repeat=false&width=520&height=55&lines=Giovanna+Sampaio" alt="Giovanna Sampaio" />
+<img src="./assets/name-banner.svg" width="80%" alt="Hello, I am Giovanna Sampaio" />
 
 <sub>✦ Estudante de Informática • Desenvolvedora em formação ✦</sub>
 
@@ -14,17 +14,17 @@
 
 </div>
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-1.svg" width="100%" alt="" />
 
-## ⋆ Sobre mim
+<div align="center"><img src="https://img.shields.io/badge/-Sobre%20mim-4FA8D8?style=for-the-badge&logoColor=white" alt="Sobre mim" /></div>
 
 Sou estudante do Curso Técnico Integrado em Informática no **IFCE**, com foco principal em **Java** e **Programação Orientada a Objetos**. Também estudo **Python**, **desenvolvimento Front-end** (HTML, CSS e JavaScript), lógica de programação e fundamentos de **banco de dados**.
 
 Gosto de entender como as coisas funcionam por trás do código e estou construindo minha base técnica um projeto de cada vez — sempre em busca de aprender algo novo.
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-2.svg" width="100%" alt="" />
 
-## ⋆ Tecnologias & Ferramentas
+<div align="center"><img src="https://img.shields.io/badge/-Tecnologias%20%26%20Ferramentas-7B93DB?style=for-the-badge&logoColor=white" alt="Tecnologias & Ferramentas" /></div>
 
 **Linguagens**
 
@@ -38,9 +38,9 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /> &nbsp; <sub>banco de dados — conteúdo que faz parte da minha formação atual</sub>
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-3.svg" width="100%" alt="" />
 
-## ⋆ Atualmente estudando
+<div align="center"><img src="https://img.shields.io/badge/-Atualmente%20estudando-4FBFAE?style=for-the-badge&logoColor=white" alt="Atualmente estudando" /></div>
 
 <table>
 <tr>
@@ -58,9 +58,9 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 </tr>
 </table>
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-1.svg" width="100%" alt="" />
 
-## ⋆ Projetos
+<div align="center"><img src="https://img.shields.io/badge/-Projetos-4FA8D8?style=for-the-badge&logoColor=white" alt="Projetos" /></div>
 
 <sub>Em construção — em breve com os primeiros projetos.</sub>
 
@@ -73,9 +73,9 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 </tr>
 </table>
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-2.svg" width="100%" alt="" />
 
-## ⋆ Estatísticas do GitHub
+<div align="center"><img src="https://img.shields.io/badge/-Estat%C3%ADsticas%20do%20GitHub-7B93DB?style=for-the-badge&logoColor=white" alt="Estatísticas do GitHub" /></div>
 
 <div align="center">
 
@@ -90,9 +90,9 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 
 <sub>Substitua <code>SEU-USUARIO</code> pelo seu nome de usuário do GitHub nos três links acima.</sub>
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-3.svg" width="100%" alt="" />
 
-## ⋆ Atividade no GitHub
+<div align="center"><img src="https://img.shields.io/badge/-Atividade%20no%20GitHub-4FBFAE?style=for-the-badge&logoColor=white" alt="Atividade no GitHub" /></div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&bg_color=00000000&color=4FA8D8&line=4FA8D8&point=2F6690&hide_border=true&area=true&area_color=BFE3F8" alt="Gráfico de atividade no GitHub" width="100%" />
@@ -100,9 +100,9 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 
 <sub>Substitua <code>SEU-USUARIO</code> pelo seu nome de usuário do GitHub no link acima.</sub>
 
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
+<img src="./assets/wave-divider-1.svg" width="100%" alt="" />
 
-## ⋆ Contato
+<div align="center"><img src="https://img.shields.io/badge/-Contato-2F6690?style=for-the-badge&logoColor=white" alt="Contato" /></div>
 
 <div align="center">
 
@@ -110,10 +110,10 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 <img src="https://img.shields.io/badge/Gmail-4FA8D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/SEU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-4FA8D8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-7B93DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-BFE3F8?style=for-the-badge&logo=linkedin&logoColor=2F6690" alt="LinkedIn (adicione seu link)" />
+<img src="https://img.shields.io/badge/LinkedIn-4FBFAE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (adicione seu link)" />
 </a>
 
 </div>
@@ -121,6 +121,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 <br/>
 
 <div align="center">
-<img src="./assets/wave-divider.svg" width="100%" alt="" />
 <sub>✦ obrigada pela visita ✦</sub>
+<br/><br/>
+<img src="./assets/ocean-footer.svg" width="100%" alt="Mar em pixel art encerrando o perfil" />
 </div>
