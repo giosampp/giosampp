@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mar em pixel art para encerrar o perfil">
+  <defs>
+    <linearGradient id="skyGradFooter" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F3FBFF"/>
+      <stop offset="100%" stop-color="#DCEFFB"/>
+    </linearGradient>
+    <path id="waveBackF"  d="M0,58 C62.5,42 62.5,42 125,58 C187.5,78 187.5,78 250,58 L250,140 L0,140 Z"/>
+    <path id="waveMidF"   d="M0,78 C62.5,58 62.5,58 125,78 C187.5,102 187.5,102 250,78 L250,140 L0,140 Z"/>
+    <path id="waveFrontF" d="M0,100 C62.5,80 62.5,80 125,100 C187.5,124 187.5,124 250,100 L250,140 L0,140 Z"/>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="140" fill="url(#skyGradFooter)"/>
+
+  <g fill="#FFFFFF">
+    <circle cx="120" cy="20" r="1.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="14" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="22" r="1.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#BFE3F8" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -250,0" dur="10s" repeatCount="indefinite"/>
+    <use href="#waveBackF" x="-250"/><use href="#waveBackF" x="0"/><use href="#waveBackF" x="250"/>
+    <use href="#waveBackF" x="500"/><use href="#waveBackF" x="750"/><use href="#waveBackF" x="1000"/>
+  </g>
+
+  <g fill="#8FCFF0">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -250,0" dur="7s" repeatCount="indefinite"/>
+    <use href="#waveMidF" x="-250"/><use href="#waveMidF" x="0"/><use href="#waveMidF" x="250"/>
+    <use href="#waveMidF" x="500"/><use href="#waveMidF" x="750"/><use href="#waveMidF" x="1000"/>
+  </g>
+
+  <g fill="#4FA8D8">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -250,0" dur="4.6s" repeatCount="indefinite"/>
+    <use href="#waveFrontF" x="-250"/><use href="#waveFrontF" x="0"/><use href="#waveFrontF" x="250"/>
+    <use href="#waveFrontF" x="500"/><use href="#waveFrontF" x="750"/><use href="#waveFrontF" x="1000"/>
+  </g>
+</svg>
