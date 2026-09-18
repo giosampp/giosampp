@@ -72,7 +72,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou construi
 
 <div align="center">
 
-<a href="mailto:SEU-EMAIL-AQUI@gmail.com">
+<a href="mailto:paulagiovannasampaio2609@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-4FA8D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/giosampp">
